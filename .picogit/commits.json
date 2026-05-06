@@ -1,0 +1,18 @@
+[
+    {
+        "commit_id": 1,
+        "timestamp": 1777364808.733249,
+        "author": "Backend Lead",
+        "message": "Initial commit for our custom VCS.",
+        "file": "test.txt",
+        "hash": "7754e80c4f374fe4e764f482643a0eb49ab3fdf736390bfa1347b83041cf7a12"
+    },
+    {
+        "commit_id": 2,
+        "timestamp": 1777369335.2793045,
+        "author": "Backend Lead",
+        "message": "Initial commit for our custom VCS.",
+        "file": "test.txt",
+        "hash": "7754e80c4f374fe4e764f482643a0eb49ab3fdf736390bfa1347b83041cf7a12"
+    }
+]

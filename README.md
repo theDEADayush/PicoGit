@@ -17,7 +17,7 @@ PicoGit is a lightweight, snapshot-based version control system built in MicroPy
 *   **Microcontroller:** Raspberry Pi Pico W
 *   **Language:** MicroPython / Python 3
 *   **Frontend:** HTML5, Vanilla JavaScript, CSS (Vibecoded UI)
-*   **Development OS:** Fedora 43 (Linux)
+*   **Development OS:** Fedora 44 (Linux)
 
 ## Quick Start
 

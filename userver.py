@@ -48,7 +48,7 @@ Response.default_content_type = 'application/json'
 
 @app.route('/api/commit', methods=['POST', 'OPTIONS'])
 def api_handle_commit(request):
-    # EXPLICIT Headers - No wildcards for Methods or Headers
+    
     cors_headers = {
         'Access-Control-Allow-Origin': '*',
         'Access-Control-Allow-Methods': 'POST, OPTIONS',

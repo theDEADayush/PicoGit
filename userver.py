@@ -56,11 +56,11 @@ def api_handle_commit(request):
         'Access-Control-Max-Age': '86400'
     }
 
-    # 1. Handle the browser's "Secret Knock" (OPTIONS)
+    
     if request.method == 'OPTIONS':
         return '', 200, cors_headers
         
-    # 2. Handle the actual Commit (POST)
+    
     try:
         payload = request.json
         file_path = payload.get('file')

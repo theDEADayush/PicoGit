@@ -14,7 +14,7 @@ def copy_file(src_path, dest_path):
 def save_object(file_path):
     file_hash = generate_hash(file_path)
     
-    # String Slicing (Same as laptop!)
+    
     folder_name = file_hash[:2]
     file_name = file_hash[2:]
     
